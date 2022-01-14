@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @cryptonomicon46
-- 👀 I’m interested in Solidity and smart contracts development 
-- 🌱 I’m currently learning ETH-Brownie via freecodecamp and other tutorials online
-- 💞️ I’m looking to collaborate on the Chainlink or other such hackathons to build up my resume. 
-- 📫 How to reach me twitter at @crypto4808
+- 👋 Hi, Welcome to my Python Github repo where you'll find my attempts at solving common Python Interview questions. 
+- My username 'cryptonomicon46' is a commbination of the Neal Stephenson book 'Crypotonomicon' and the GOAT of Moto GP 'Valentino Rossi aka VR46'.
+- Email: sandip.nallani@gmail.com
 -Eth Wallet ENS: cryptoSandman.eth
 
 <!---
