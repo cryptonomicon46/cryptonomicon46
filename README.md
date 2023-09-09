@@ -1,7 +1,11 @@
-- 👋 Hi, Welcome to my github. I'm a web3 audit apprentice at Macro, a web3 security focused company. I'm here to contribute and make the web3 space safer for everyone. 
-- My username 'cryptonomicon46' is a commbination of Neal Stephenson's book 'Crypotonomicon' and the GOAT of Premier Grand Prix Motorcycle Racing, Valentino Rossi aka VR46.
-- Email: sand@0xmacro.com
+I'm a web3 sercurity specialist and smart contract developer.
+Previously worked as an audit apprentice at `0xMacroSecurity`.
+DM me for private audits or web3 smart contract consultations. 
+I'll ensure that your project receives the utomost priority and help ensure it's security 
+
+Email: sandman2145@gmail.com
 Medium: https://medium.com/@sandnc.eth
+Twitter: https://twitter.com/SandNallani
 
 
 
